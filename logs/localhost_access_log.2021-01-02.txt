@@ -1,0 +1,2 @@
+192.168.225.49 - - [02/Jan/2021:13:29:11 +0530] "GET /CCyes/ HTTP/1.1" 200 12710
+192.168.225.49 - - [02/Jan/2021:13:29:13 +0530] "POST /CCyes//megam/directory?password=sanju@1398 HTTP/1.1" 202 61

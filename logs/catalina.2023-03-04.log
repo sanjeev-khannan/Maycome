@@ -1,0 +1,49 @@
+04-Mar-2023 15:54:48.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.31
+04-Mar-2023 15:54:48.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 5 2020 19:32:12 UTC
+04-Mar-2023 15:54:48.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.31.0
+04-Mar-2023 15:54:48.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+04-Mar-2023 15:54:48.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            13.0
+04-Mar-2023 15:54:48.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          aarch64
+04-Mar-2023 15:54:48.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-18.0.2.1.jdk/Contents/Home
+04-Mar-2023 15:54:48.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           18.0.2.1+1-1
+04-Mar-2023 15:54:48.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Mar-2023 15:54:48.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/sanjeev/Official/Java Development/MayCome
+04-Mar-2023 15:54:48.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/sanjeev/Official/Java Development/MayCome
+04-Mar-2023 15:54:48.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Mar-2023 15:54:48.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Mar-2023 15:54:48.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Mar-2023 15:54:48.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/sanjeev/Official/Java Development/MayCome/conf/logging.properties
+04-Mar-2023 15:54:48.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Mar-2023 15:54:48.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms512M
+04-Mar-2023 15:54:48.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx1024M
+04-Mar-2023 15:54:48.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Mar-2023 15:54:48.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Mar-2023 15:54:48.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Mar-2023 15:54:48.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms16m
+04-Mar-2023 15:54:48.907 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx4g
+04-Mar-2023 15:54:48.908 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Mar-2023 15:54:48.908 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/sanjeev/Official/Java Development/MayCome
+04-Mar-2023 15:54:48.908 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/sanjeev/Official/Java Development/MayCome
+04-Mar-2023 15:54:48.908 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/sanjeev/Official/Java Development/MayCome/temp
+04-Mar-2023 15:54:48.908 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/sanjeev/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+04-Mar-2023 15:54:49.076 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Mar-2023 15:54:49.123 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [401] milliseconds
+04-Mar-2023 15:54:49.144 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Mar-2023 15:54:49.144 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.31]
+04-Mar-2023 15:54:49.153 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/sanjeev/Official/Java Development/MayCome/webapps/CCyes.war]
+04-Mar-2023 15:54:49.899 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+04-Mar-2023 15:54:49.950 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'dispatcher'
+04-Mar-2023 15:54:50.642 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 690 ms
+04-Mar-2023 15:54:50.646 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/sanjeev/Official/Java Development/MayCome/webapps/CCyes.war] has finished in [1,493] ms
+04-Mar-2023 15:54:50.646 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/sanjeev/Official/Java Development/MayCome/webapps/docs]
+04-Mar-2023 15:54:50.659 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/sanjeev/Official/Java Development/MayCome/webapps/docs] has finished in [13] ms
+04-Mar-2023 15:54:50.659 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/sanjeev/Official/Java Development/MayCome/webapps/manager]
+04-Mar-2023 15:54:50.679 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/sanjeev/Official/Java Development/MayCome/webapps/manager] has finished in [20] ms
+04-Mar-2023 15:54:50.679 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/sanjeev/Official/Java Development/MayCome/webapps/examples]
+04-Mar-2023 15:54:50.800 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/sanjeev/Official/Java Development/MayCome/webapps/examples] has finished in [120] ms
+04-Mar-2023 15:54:50.800 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/sanjeev/Official/Java Development/MayCome/webapps/ROOT]
+04-Mar-2023 15:54:50.815 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/sanjeev/Official/Java Development/MayCome/webapps/ROOT] has finished in [15] ms
+04-Mar-2023 15:54:50.815 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/sanjeev/Official/Java Development/MayCome/webapps/host-manager]
+04-Mar-2023 15:54:50.827 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/sanjeev/Official/Java Development/MayCome/webapps/host-manager] has finished in [12] ms
+04-Mar-2023 15:54:50.833 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Mar-2023 15:54:50.837 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1,712] milliseconds

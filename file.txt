@@ -1,0 +1,11 @@
+Using CATALINA_BASE:   /Users/sanjeev-9237/Official/MayCome
+Using CATALINA_HOME:   /Users/sanjeev-9237/Official/MayCome
+Using CATALINA_TMPDIR: /Users/sanjeev-9237/Official/MayCome/temp
+Using JRE_HOME:        /Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home
+Using CLASSPATH:       /Users/sanjeev-9237/Official/MayCome/bin/bootstrap.jar:/Users/sanjeev-9237/Official/MayCome/bin/tomcat-juli.jar
+Using CATALINA_BASE:   /Users/sanjeev-9237/Official/MayCome
+Using CATALINA_HOME:   /Users/sanjeev-9237/Official/MayCome
+Using CATALINA_TMPDIR: /Users/sanjeev-9237/Official/MayCome/temp
+Using JRE_HOME:        /Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home
+Using CLASSPATH:       /Users/sanjeev-9237/Official/MayCome/bin/bootstrap.jar:/Users/sanjeev-9237/Official/MayCome/bin/tomcat-juli.jar
+Tomcat started.
