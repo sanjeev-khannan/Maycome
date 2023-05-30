@@ -1,11 +1,9 @@
 # Maycome [March 2020 - April 2020]
 
-Developed a LocalStorage Cloud as a web app which is accessible among Intranet from browsers, ideal for personal and
-home use using Java for Backend-development, PostgreSQL for Database and HTML/CSS, Javascript for Front-end.
+Created Maycome, a personal LocalStorage Cloud web application accessible within an Intranet using Java for Backend development, PostgreSQL for Database management, and HTML/CSS, JavaScript for Front-end.
 
+To start the Maycome engine, navigate to the project folder and execute the command "sh startEngine.sh". The server will initiate on port 8080, and you can access the application via "localhost:8080/CCyes".
 
-You can start the engine by running "sh startEngine.sh" from the project folder.
+Before launching, make sure to configure the homeDirectory for the cloud storage by editing the Configuration.properties file located in the properties folder.
 
-Before that, under properties folder, edit Configuration.properties to set your homeDirectory for the cloud storage.
-
-Note: Make sure you've set JAVA HOME environment variables
+Please ensure that the JAVA HOME environment variables are correctly set for seamless execution.
